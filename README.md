@@ -1,6 +1,6 @@
 # ShopAssist-AI-An-Intelligent-E-Commerce-Customer-Service-Agent
 
-*![Intro_Image]()*
+*![Intro_Image](https://github.com/Uzo-Hill/ShopAssist-AI---An-Intelligent-E-Commerce-Customer-Service-Agent/blob/main/Project_image/Architectural_Overview.jfif)*
 
 
 An intelligent AI-powered e-commerce customer service agent that automatically resolves customer enquiries using real order data and company policies.
@@ -125,7 +125,7 @@ Stores customer order information.
 - Delay Reason
 - Refund Eligibility
 
-*![order_table]()*
+*![order_table](https://github.com/Uzo-Hill/ShopAssist-AI---An-Intelligent-E-Commerce-Customer-Service-Agent/blob/main/Project_image/order_table.PNG)*
 
 ### Policies Table
 
@@ -140,7 +140,7 @@ Stores official company policies used by the agent.
 - Order Cancellations
 - Processing Delays
 
-*![policy_table]()*
+*![policy_table](https://github.com/Uzo-Hill/ShopAssist-AI---An-Intelligent-E-Commerce-Customer-Service-Agent/blob/main/Project_image/policy_table.PNG)*
 
 
 ---
@@ -418,11 +418,11 @@ await run_crew()
 
 ### Tool Execution
 
-*![Tool_Execution]()*
+*![Tool_Execution](https://github.com/Uzo-Hill/ShopAssist-AI---An-Intelligent-E-Commerce-Customer-Service-Agent/blob/main/Project_image/Tool_Execution.PNG)*
 
 ### Final Customer Response
 
-*![Tool_Execution]()*
+*![AgentResponse](https://github.com/Uzo-Hill/ShopAssist-AI---An-Intelligent-E-Commerce-Customer-Service-Agent/blob/main/Project_image/Final_Answer.PNG)*
 
 ---
 
